@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\headphone.jpg",
+      "PackagePath": "staticwebassets\\headphone.jpg"
+    },
+    {
       "Id": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -155,6 +159,10 @@
     {
       "Id": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\logo.png",
       "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\musicstream.jpg",
+      "PackagePath": "staticwebassets\\musicstream.jpg"
     },
     {
       "Id": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\pokemon.png",

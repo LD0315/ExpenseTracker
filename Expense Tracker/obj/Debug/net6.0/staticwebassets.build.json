@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EsaY/+N4i7TNdiWzGlWvjVsYp1DP26C7KNX0uznc1eM=",
+  "Hash": "jz+bI6SjYHiGm32PErNO0VuKQaAM7NOcMNWcUafTdOk=",
   "Source": "Expense Tracker",
   "BasePath": "_content/Expense Tracker",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon-32x32.png"
+    },
+    {
+      "Identity": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\headphone.jpg",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "headphone.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\headphone.jpg"
     },
     {
       "Identity": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\js\\site.js",
@@ -678,6 +695,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\musicstream.jpg",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "musicstream.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\musicstream.jpg"
     },
     {
       "Identity": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\pokemon.png",
