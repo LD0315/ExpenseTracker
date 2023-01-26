@@ -157,6 +157,14 @@
       "PackagePath": "staticwebassets\\logo.png"
     },
     {
+      "Id": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\pokemon.png",
+      "PackagePath": "staticwebassets\\pokemon.png"
+    },
+    {
+      "Id": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.jpg",
+      "PackagePath": "staticwebassets\\profile.jpg"
+    },
+    {
       "Id": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.png",
       "PackagePath": "staticwebassets\\profile.png"
     },

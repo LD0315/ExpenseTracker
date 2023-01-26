@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include=".github\workflows\YAMLFile.yml" />
+    <None Include=".github\workflows\azure-webapps-dotnet-core.yml" />
   </ItemGroup>
 
 </Project>

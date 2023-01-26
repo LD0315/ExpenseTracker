@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mai7hWGWqtjN+xtMlskicYnC5iyqCniThV25ZdYsydo=",
+  "Hash": "EsaY/+N4i7TNdiWzGlWvjVsYp1DP26C7KNX0uznc1eM=",
   "Source": "Expense Tracker",
   "BasePath": "_content/Expense Tracker",
   "Mode": "Default",
@@ -678,6 +678,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\pokemon.png",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "pokemon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pokemon.png"
+    },
+    {
+      "Identity": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.jpg",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile.jpg"
     },
     {
       "Identity": "C:\\Users\\4504\\source\\repos\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.png",
