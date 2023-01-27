@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAsASw5oSrj0q1zU2LV/Fm4AAAAAACAAAAAAADZgAAwAAAABAAAACP9W3SNLSilwe36zO8h8krAAAAAASAAACgAAAAEAAAAALkSp8A6RiBQ80dSUDZyKSAAAAA1q4oCCsLUlGpxnDHKs+ZF4KLqe0G8QBEaQP6jHMip9e3O2mxrKy6X1JCO/zO6djuVmix5Zg25KWVvWFPzJveE+ykW281H0oOIKjH44L0AHaw2J21NrOJEDnFr9hY4tYi+J3xZzSguf2bGB+tRhJ7HCnLAzcaiCRaJwvBuWs92ZAUAAAA52RWJI3xbJLVKnMog6JEn1ZA1S4=</EncryptedPassword>
+    <History>True|2023-01-27T05:46:55.8977680Z;False|2023-01-27T15:42:58.0668823+10:00;True|2023-01-27T15:37:23.9910871+10:00;True|2023-01-27T15:21:44.5249804+10:00;False|2023-01-27T15:13:19.6737047+10:00;False|2023-01-27T15:08:54.9689457+10:00;False|2023-01-27T15:05:23.7127572+10:00;False|2023-01-27T15:02:29.5986767+10:00;False|2023-01-27T15:01:50.4482187+10:00;False|2023-01-27T14:59:56.2793810+10:00;True|2023-01-27T14:51:20.8212992+10:00;True|2023-01-27T14:46:01.3550645+10:00;True|2023-01-27T14:36:42.4584308+10:00;True|2023-01-27T14:27:14.9850435+10:00;True|2023-01-27T14:18:55.7430628+10:00;False|2023-01-27T11:26:30.3336872+10:00;False|2023-01-27T11:25:08.6695954+10:00;False|2023-01-27T11:22:45.3598467+10:00;True|2023-01-27T11:17:43.3473983+10:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DevConnection">
+      <Value>Server=tcp:expensetrackerdatabasedbserver.database.windows.net,1433%3bInitial Catalog=ExpenseTrackerDatabase%3bPersist Security Info=False%3bUser ID=admin_00315%3bPassword=DLLpanacea315!!%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Expense_Tracker.Models.ApplicationDbContext">
+      <Value>Server=tcp:expensetrackerdatabasedbserver.database.windows.net,1433%3bInitial Catalog=ExpenseTrackerDatabase%3bPersist Security Info=False%3bUser ID=admin_00315%3bPassword=DLLpanacea315!!%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

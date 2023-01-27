@@ -282,3 +282,9 @@ C:\Users\4504\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net6.0\runt
 C:\Users\4504\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net6.0\Syncfusion.EJ2.dll
 C:\Users\4504\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net6.0\Syncfusion.Licensing.dll
 C:\Users\4504\source\repos\Expense Tracker\Expense Tracker\obj\Debug\net6.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\4504\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\4504\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\4504\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\4504\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\4504\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\4504\source\repos\Expense Tracker\Expense Tracker\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
